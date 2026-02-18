@@ -4,5 +4,3 @@ let person = {
   area: "Dhaka",
   MaritalStatus: "Unmarried",
 };
-
-let personCopy =
